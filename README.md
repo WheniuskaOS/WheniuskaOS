@@ -13,10 +13,3 @@ C#, .NET masaüstü uygulamaları, Web API ve Discord botları geliştiren bir y
 * **BatteryMonitor:** Pil seviyesi %20 ve %80 sınırlarına ulaştığında uyarı veren sistem tepsisi (system tray) uygulaması.
 * **Synapse:** Web API ve WPF masaüstü istemcisini birleştiren çok katmanlı çözüm.
 * **MRX Bot Serisi:** Lavalink müzik altyapısı, moderasyon ve kelime oyunu modülleri içeren C# Discord botları.
-
-#### 📊 GitHub İstatistiklerim
-
-<p align="left">
-  <img src="https://vercel.app" alt="WheniuskaOS GitHub İstatistikleri" height="165" />
-  <img src="https://vercel.app" alt="En Çok Kullanılan Diller" height="165" />
-</p>
